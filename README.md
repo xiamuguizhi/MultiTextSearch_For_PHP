@@ -1,0 +1,2 @@
+# MultiTextSearch_For_PHP
+MultiTextSearch 是一个PHP脚本，用于在指定目录中查找支持多种格式（如Markdown、HTML、TXT等）的文本文件。该脚本会遍历目录中的所有符合格式的文件，并检查文件内容是否包含所有指定的关键词。如果符合条件，脚本将输出符合条件的文件名称。
